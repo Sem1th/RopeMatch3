@@ -22,32 +22,32 @@ Unity 2022.3.18
     </tr>
     <tr>
         <td>
-            <img src="Screenshots/Screen1-Game.png" alt="">
+            <img src="Screenshots/Screen2-Game.png" alt="">
         </td>
     </tr>
     <tr>
         <td>
-            <img src="Screenshots/photo_1.png" alt="">
+            <img src="Screenshots/photo_1.jpg" alt="">
         </td>
     <tr>
     <tr>
         <td>
-            <img src="Screenshots/photo_2.png" alt="">
-        </td>
-    <tr>
-      <tr>
-        <td>
-            <img src="Screenshots/photo_3.png" alt="">
-        </td>
-    <tr>
-    <tr>
-        <td>
-            <img src="Screenshots/photo_4.png" alt="">
+            <img src="Screenshots/photo_2.jpg" alt="">
         </td>
     <tr>
       <tr>
         <td>
-            <img src="Screenshots/photo_5.png" alt="">
+            <img src="Screenshots/photo_3.jpg" alt="">
+        </td>
+    <tr>
+    <tr>
+        <td>
+            <img src="Screenshots/photo_4.jpg" alt="">
+        </td>
+    <tr>
+      <tr>
+        <td>
+            <img src="Screenshots/photo_5.jpg" alt="">
         </td>
     <tr>
 </table>
